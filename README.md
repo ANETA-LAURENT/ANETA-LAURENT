@@ -1,6 +1,7 @@
 <img align="right" src="Aneta.png" alt="photo">
- 
-<h2>Passionnée depuis toujours par le développement Web, après avoir exercé plusieurs métiers, j'ai choisi de faire une reconversion professionnelle dans ce domaine. Je me suis d'abord formée en autodidacte puis j'ai suivi le parcours 'Développeur Web Junior' chez Openclassrooms.</h2> 
+ <div class= "pt-5">
+<h4>Passionnée depuis toujours par le développement Web, après avoir exercé plusieurs métiers, j'ai choisi de faire une reconversion professionnelle dans ce domaine. Je me suis d'abord formée en autodidacte puis j'ai suivi le parcours 'Développeur Web Junior' chez Openclassrooms.</h4> 
+</div>
 <!--
 **ANETA-LAURENT/ANETA-LAURENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
