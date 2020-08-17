@@ -8,8 +8,7 @@
 
 - 🤦🏻 I currently do some Javascript exercices
 
-- 📫 How to reach me: Twitter -> Aneta_oo_  or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank">Here</a>
-                <br>
+- 📫 How to reach me: Twitter -> <a href="https://twitter.com/Aneta_oo_" target="_blank"></a> or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank">Here</a>
 
 - 😄 Pronouns: she/elle ✨
 
