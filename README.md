@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning : Vue.js & Tailwindcss
 
-- 📫 How to reach me: Twitter -> Aneta_oo_
+- 🤦🏻 I currently do some Javascript exercices
+
+- 📫 How to reach me: Twitter -> Aneta_oo_  or 
 
 - 😄 Pronouns: she/elle ✨
 
