@@ -6,11 +6,15 @@
 
 - 🌱 I’m currently learning : Vue.js & Tailwindcss
 
-- 🤦🏻 I currently do some Javascript exercices
+- 🤦🏻 I currently do :
+- svg animation, 
+- figma exercises,
+- drop & drag with JS,
+and still some Javascript exercices.
 
 - 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank"> Here</a>
 
 - 😄 Pronouns: she/elle ✨
 
-- ⚡ Fun fact: I can't live without tea! ☕ 
+- ⚡ Fun fact: I can't live without a few cup of tea/per day! ☕ 
 
