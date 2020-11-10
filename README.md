@@ -4,17 +4,20 @@
 
 
 
-- 🌱 I’m currently learning : Vue.js & Tailwindcss
+-> 📖 I’m currently learning : Jquery
 
-- 🤦🏻 I currently do :
-- svg animation, 
-- figma exercises,
-- drop & drag with JS,
-and still some Javascript exercices.
+-> ⚓ I currently do :
+    - jQuery course, 
+    and some jQuery exercices on codepen.
 
-- 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank"> Here</a>
+->  📅 I am planning to : 
+    - learn Angular or React
+    - chill🤗,
+    - drink more tea ⛾.
 
-- 😄 Pronouns: she/elle ✨
+-> 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank"> Here</a>
 
-- ⚡ Fun fact: I can't live without a few cup of tea/per day! ☕ 
+-> 😄 Pronouns: she/elle ✨
+
+-> ⚡ Fun fact: I can't live without a few cup of tea/per day! ☕ 
 
