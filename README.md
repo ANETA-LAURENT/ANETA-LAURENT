@@ -15,7 +15,7 @@
     chill🤗, 
     drink more tea ⛾.
 
--> 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.yj.fr/index.html" target="_blank"> Here</a>
+-> 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.github.io/portfolio/index.html" target="_blank"> Here</a>
 
 -> 😄 Pronouns: she/elle ✨
 
