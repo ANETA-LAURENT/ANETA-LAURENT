@@ -6,11 +6,9 @@
 
 -> 📖 I’m currently learning : <strong>React</strong>.
 <br>
--> ⚓ I currently do :
-     React course    and a chatbot with IBM Watson Assistant</strong>.
+-> ⚓ I currently do:<strong>  React course and a chatbot with IBM Watson Assistant</strong>.
 <br>
-->  📅 I am planning to : 
-   <strong> learn Node.js,    chill🤗,     meditate🧘</strong>.
+->  📅 I am planning to: <strong> learn Node.js,    chill🤗,     meditate🧘</strong>.
 <br>    
 ->  How to get more updates about me:  ✍️<strong> <a href="https://anetado.medium.com/"> Medium </a> </strong>
 <br>
