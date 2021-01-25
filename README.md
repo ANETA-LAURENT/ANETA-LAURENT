@@ -7,7 +7,7 @@
 -> 📖 I’m currently learning : <strong>React</strong>.
 <br>
 -> ⚓ I currently do :
-     React course    and a chatbot with IBM Watson Assistant.
+     React course    and a chatbot with IBM Watson Assistant</strong>.
 <br>
 ->  📅 I am planning to : 
    <strong> learn Node.js,    chill🤗,     meditate🧘</strong>.
