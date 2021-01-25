@@ -4,17 +4,18 @@
 
 
 
--> 📖 I’m currently learning : Jquery.
+-> 📖 I’m currently learning : React.
 
 -> ⚓ I currently do :
-     jQuery course, 
-    and some jQuery exercices on CodePen.
+     React course, 
+    and constructin a chatbot with IBM Watson Assistant
 
 ->  📅 I am planning to : 
-     learn Angular or React, 
+     learn Node.js, 
     chill🤗, 
     drink more tea ⛾.
-
+    
+->  How to get more updates about me:  ✍️ a href="https://anetado.medium.com/"> Medium </a>
 -> 📫 How to reach me: <a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.github.io/portfolio/index.html" target="_blank"> Here</a>
 
 -> 😄 Pronouns: she/elle ✨
