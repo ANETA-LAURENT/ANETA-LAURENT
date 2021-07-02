@@ -4,7 +4,7 @@
 
 -> 📖 I’m currently learning : <strong>Python and Django</strong>.<br /><br />
 -> ⚓ I currently do:<strong>  Python and Tkinter project </strong>.<br /><br />
--> 📅 I am planning to: <strong> learn Cobol or Java, chill🤗 , meditate🧘</strong>.<br />  <br />
+-> 📅 I am planning to: <strong> take some vacation🧘</strong>.<br />  <br />
 -> ✍️ How to get more updates about me:<strong> <a href="https://anetado.medium.com/"> Medium </a></strong>.<br /><br />
 -> 📫 How to reach me:<strong><a href="https://twitter.com/Aneta_oo_" target="_blank"> Twitter</a> or 💻 <a href="https://aneta-laurent.github.io/portfolio/index.html" target="_blank"> Here</a></strong>.<br /><br />
 -> 😄 Pronouns: she/elle. ✨<br /><br />
